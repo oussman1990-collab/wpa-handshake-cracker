@@ -6,6 +6,14 @@ Automatic WPA/WPA2 handshake extraction and cracking tool using hashcat and hcxt
 
 ## Installation
 
+Clone the tool:
+
+git clone https://github.com/oussman1990-collab/wpa-handshake-cracker.git
+
+Enter the directory:
+
+cd wpa-handshake-cracker
+
 Install required tools:
 
 sudo apt update
